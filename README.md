@@ -1,4 +1,9 @@
 ## Getting Started
+Intially install all dependencies
+```bash
+cd INTO_CLONED_LOCATION
+npm install
+```
 
 First, run the development server:
 
